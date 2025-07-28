@@ -1,0 +1,542 @@
+.toot{
+    display: flex;
+}
+.ano{
+    background-color: white;
+    position: fixed;
+    top: -0;
+    z-index: 1;
+}
+.mee{
+    margin-left: 280px;
+    margin-top: 10px;
+}
+.mee img{
+    width: 7%;
+}
+.mee img:hover{
+    cursor: pointer;
+    transition: transform 0.5s ease; transform:scale(1.09)
+}
+.mee a{
+    text-decoration: none;
+     color: dimgrey;
+     font-size: 13px;
+     font-weight: 600;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fall img{
+    width: 7%;
+    margin-left: 25px;
+}
+.fall{
+    margin-left: -300px;
+    margin-top: 25px;
+}
+.fall a{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+.five img{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.silt{
+    display: flex;
+    position: relative;
+    background-color: white;
+    height: 65px;
+    width: 750px;
+    border: 2px solid gainsboro;
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.yo{
+    position: absolute;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.yoo{
+    position: absolute;
+    margin-left: 230px;
+    padding-top: 10px;
+    
+}
+.yooo{
+    position: absolute;
+    margin-left: 380px;
+    padding-top: 10px;
+    height: 40px;
+}
+.yoooo{
+    position: absolute;
+    margin-left: 530px;
+    padding-top: 10px;
+}
+.yolo img{
+    width: 4%;
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 13px;
+}
+.level a{
+    color: black;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.level p{
+    color: dimgrey;
+    font-size: 13px;
+    font-weight: 500;
+}
+.girl img{
+    height: 185px;
+}
+.pen img, .penin img{
+    width: 100%;
+    position: relative;
+    border-radius: 20px;
+}
+.pen a, .penin a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: 600;
+}
+.pen p, .penin p{
+    font-size: 12px;
+    color: dimgrey;
+    font-weight: 500;
+}
+.pen h4{
+    margin-top: 200px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 10px;
+}
+.penin h4{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 10px;
+}
+.pen button, .penin button{
+    position: absolute;
+    border: none;
+    border-radius: 30px;
+    width: 100px;
+    height: 25px;
+    font-size: 10px;
+    font-weight: 600;
+    color: black;
+    background-color: #f3ede6;
+    margin-top: 10px;
+    margin-left: -180px;
+}
+.hello img{
+    width: 1%;
+}
+.tune img{
+    width: 2.3%;
+    margin-top: -255px;
+    margin-left: 150px;
+    position: absolute;
+}
+.tune img:hover{
+    cursor: pointer;
+    transition: transform 0.5s ease; transform: scale(1.09);
+}
+.her{
+    background-color: #f7f7f7;
+    width: 100%;
+    margin-top: 40px;
+}
+.her h3{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 7px;
+}
+.pal a{
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 13px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.pal{
+    margin-left: -20px;
+}
+.loose a{
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 13px;
+    font-weight: 600;
+}
+.loose p{
+    font-size: 13px;
+    font-weight: 600;
+}
+.val img{
+    width: 6%;
+    margin-top: -3px;
+}
+.val a{
+    color: black;
+}
+.val a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.laps a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    display: block;
+    line-height: 2.5;
+}
+.laps a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.laps p{
+    font-size: 13px;
+    font-weight: 600;
+    color: black;
+    padding-top: 60px;
+}
+.late{
+    display: flex;
+}
+.late a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.late p{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 3px;
+}
+.colos{
+    display: flex;
+    padding-left: 10px;
+}
+.colos p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.learn img{
+    width: 6%;
+    margin-left: 25px;
+}
+@media (max-width:430px){
+    .toat{
+        margin: 0;
+        margin-top: -20px;
+        position: fixed;
+        background-color: white;
+        top: 0;
+        z-index: 1;
+    }
+    .toat input{
+        width: 100%;
+        height: 50px;
+        border-radius: 25px;
+        margin: 0;
+        margin-top: 30px;
+        text-align: center;
+        color: black;
+        border: 1px solid gainsboro;
+        font-weight: 600;
+    }
+    .toat ::placeholder{
+        color: black;
+    }
+    .fuck img{
+        margin: 0;
+        width: 45%;
+        margin-left: 50px;
+    }
+    .fuck{
+        margin: 0;
+        margin-top: 10px;
+        margin-left: -50px;
+        display: flex;
+    }
+    .fuck a{
+        color: black;
+        text-decoration: none;
+        margin: 0;
+        margin-left: 55px;
+        margin-top: -10px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .hello img{
+        width: 4%;
+    }
+    .tune img{
+        width: 8%;
+        margin: 0;
+        margin-left: 128px;
+        margin-top: -255px;
+    }
+    .pen button, .penin button{
+        margin: 0;
+        font-size: 10px;
+        margin-left: -165px;
+        width: 105px;
+        margin-top: 10px;
+        font-weight: 200;
+    }
+    .pen h4{
+        padding: 0;
+        padding-bottom: 30px;
+    }
+    .pen a, .penin a{
+    font-size: 12px;
+    font-weight: 600;
+}
+.pen p, .penin p{
+    font-size: 12px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+.her h3{
+    font-size: 17px;
+}
+.pal a, .loose a, .loose p, .laps a, .laps p{
+    font-size: 12px;
+}
+.woo{
+    display: flex;
+}
+.woo img{
+    width: 15%;
+}
+.colos{
+    display: block;
+}
+.learn img{
+    width: 6%;
+    margin-bottom: 20px;
+}
+.learn{
+    margin: 0;
+    margin-left: -25px;
+}
+.pate a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    padding-left: 10px;
+}
+.pate{
+    margin-left: -10px;
+}
+}
+@media (min-width:431px) and (max-width:767px){
+    .toat{
+        margin: 0;
+        margin-top: -15px;
+        position: fixed;
+        background-color: white;
+        top: 0;
+        z-index: 1;
+    }
+    .toat input{
+        width: 100%;
+        height: 50px;
+        border-radius: 25px;
+        margin: 0;
+        margin-top: 30px;
+        text-align: center;
+        color: black;
+        border: 1px solid gainsboro;
+        font-weight: 600;
+    }
+    .toat ::placeholder{
+        color: black;
+    }
+    .fuck img{
+        margin: 0;
+        width: 35%;
+        margin-left: 50px;
+    }
+    .fuck{
+        margin: 0;
+        margin-top: 10px;
+        margin-left: 30px;
+        display: flex;
+    }
+    .fuck a{
+        color: black;
+        text-decoration: none;
+        margin: 0;
+        margin-left: 65px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .fuck p{
+        margin-top: -20px;
+    }
+    .hello img{
+        width: 4%;
+    }
+    .hello img{
+        width: 3%;
+    }
+    .tune img{
+        width: 5%;
+        margin: 0;
+        margin-left: 275px;
+        margin-top: -255px;
+    }
+    .pen button, .penin button{
+        margin: 0;
+        font-size: 12px;
+        margin-left: -313px;
+        width: 105px;
+        font-weight: 600;
+        margin-top: 10px;
+        font-weight: 200;
+    }
+    .pen h4{
+        padding: 0;
+        padding-bottom: 30px;
+    }
+    .pen a, .penin a{
+    font-size: 12px;
+    font-weight: 600;
+}
+.pen p, .penin p{
+    font-size: 12px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+.her h3{
+    font-size: 17px;
+}
+.pal a, .loose a, .loose p, .laps a, .laps p{
+    font-size: 12px;
+}
+.woo{
+    display: flex;
+}
+.woo img{
+    width: 12%;
+}
+.colos{
+    display: block;
+}
+.learn img{
+    width: 2.5%;
+    margin-bottom: 20px;
+}
+.learn{
+    margin: 0;
+    margin-left: -25px;
+}
+.pate a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    padding-left: 10px;
+}
+.pate{
+    margin-left: -10px;
+}
+.val img{
+    width: 3%;
+}
+}
+@media (min-width:768px) and (max-width:1023px){
+    .silt{
+        margin: 0;
+        margin-left: -10px;
+        margin-top: 50px;
+    }
+    .five img{
+        margin: 0;
+        margin-top: 10px;
+    }
+    .mee{
+        margin: 0;
+        margin-left: 200px;
+    }
+    .mee img{
+        width: 6%;
+    }
+    .fall{
+        margin: 0;
+        margin-left: -380px;
+        margin-top: 10px;
+    }
+    .fall img{
+        width: 20%;
+    }
+    .pen button, .penin button{
+        margin: 0;
+        font-size: 12px;
+        margin-left: -260px;
+        width: 105px;
+        font-weight: 600;
+        margin-top: 10px;
+        font-weight: 200;
+    }
+    .pen h4{
+        padding: 0;
+        padding-bottom: 20px;
+    }
+    .tune img{
+        width: 3.5%;
+        margin: 0;
+        margin-left: 225px;
+        margin-top: -255px;
+    }
+    .pen p, .penin p{
+    padding-bottom: 10px;
+}
+.woo{
+    display: flex;
+}
+.woo img{
+    width: 12%;
+}
+.colos{
+    display: block;
+}
+.learn img{
+    width: 8%;
+    margin-bottom: 20px;
+}
+.learn{
+    margin: 0;
+    float: right;
+}
+.pate a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.pate{
+    margin-left: -10px;
+}
+.val img{
+    width: 3%;
+ }
+ .hello img{
+    width: 2%;
+ }
+}
