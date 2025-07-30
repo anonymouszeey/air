@@ -399,7 +399,7 @@
         width: 4%;
     }
     .hello img{
-        width: 3%;
+        width: 2%
     }
     .tune img{
         width: 5%;
@@ -412,7 +412,6 @@
         font-size: 12px;
         margin-left: -313px;
         width: 105px;
-        font-weight: 600;
         margin-top: 10px;
         font-weight: 200;
     }
@@ -439,13 +438,13 @@
     display: flex;
 } */
 .woo img{
-    width: 12%;
+    width: 2%;
 }
 .colos{
     display: block;
 }
 .learn img{
-    width: 2.5%;
+    width: 2%;
     margin-bottom: 20px;
 }
 .learn{
@@ -463,6 +462,9 @@
 }
 .val img{
     width: 3%;
+}
+.pate img{
+    width: 2.5%;
 }
 }
 @media (min-width:768px) and (max-width:1023px){
@@ -516,7 +518,7 @@
     display: flex;
 } */
 .woo img{
-    width: 12%;
+    width: 2%;
 }
 .colos{
     display: block;
@@ -544,5 +546,8 @@
  }
  .hello img{
     width: 2%;
+ }
+ .pate img{
+    width: 2.5%;
  }
 }
